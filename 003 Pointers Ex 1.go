@@ -22,8 +22,7 @@ func main() {
 
 	// Declare a pointer variable of type int. Assign the
 	// address of the integer variable above.
-	var b *int
-	b = &a
+	b := &a
 
 	// Display the address of, value of and the value the pointer
 	// points to.
