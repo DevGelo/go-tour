@@ -2,7 +2,7 @@
 https://tour.ardanlabs.com/tour/eng/
 
 - [x] Language Mechanics
-- [ ] Composition and Interfaces
+- [x] Composition and Interfaces
 - [ ] Concurrency
 - [ ] Generics
 - [ ] Algorithms
