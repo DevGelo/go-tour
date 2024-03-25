@@ -1,8 +1,8 @@
-# go-tour
-https://tour.ardanlabs.com/tour/eng/
+# learn-go-with-tests
+[https://tour.ardanlabs.com/tour/eng/](https://quii.gitbook.io/learn-go-with-tests)
 
-- [x] Language Mechanics
-- [x] Composition and Interfaces
-- [x] Concurrency
-- [x] Generics
-- [ ] Algorithms
+- [ ] Go fundamentals
+- [ ] Testing fundamentals
+- [ ] Build an application
+- [ ] Questions and answers
+- [ ] Meta
