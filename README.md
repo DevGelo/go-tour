@@ -6,3 +6,6 @@
 - [ ] Build an application
 - [ ] Questions and answers
 - [ ] Meta
+
+# The Go Playground
+https://go.dev/play/p/BWJ4dcUqVfT
